@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm currently studying on a Computer Science degree and learning about 🖥️ Web development and 💾 Data bases.
+# I'm currently studying on a Computer Science degree and learning about 🖥️ Web development and 💾 Data bases.
 
 
 <!--.
