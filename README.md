@@ -1,6 +1,8 @@
 ## Hi there 👋
+## I'm currently studying on a Computer Science degree and learning about 🖥️ Web development and 💾 Data bases.
 
-<!--
+
+<!--.
 **zWiu/zWiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
